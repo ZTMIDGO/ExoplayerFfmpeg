@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="17fa4bd9-3246-41a2-875a-d78f6cb2b3ac" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/jni/libopus/autogen.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/jni/libopus/autogen.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/jni/libopus/celt/arm/arm2gnu.pl" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/jni/libopus/celt/arm/arm2gnu.pl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/jni/libopus/celt/arm/celt_pitch_xcorr_arm.s" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/jni/libopus/doc/build_draft.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/jni/libopus/doc/build_draft.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/jni/libopus/doc/build_isobmff.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/jni/libopus/doc/build_isobmff.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/jni/libopus/doc/build_oggdraft.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/jni/libopus/doc/build_oggdraft.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/jni/libopus/scripts/dump_rnn.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/jni/libopus/scripts/dump_rnn.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/jni/libopus/scripts/rnn_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/jni/libopus/scripts/rnn_train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/jni/libopus/tests/run_vectors.sh" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/jni/libopus/tests/run_vectors.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/jni/libopus/training/rnn_dump.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/jni/libopus/training/rnn_dump.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/jni/libopus/training/rnn_train.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/jni/libopus/training/rnn_train.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/jni/libopus/training/txt2hdf5.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/jni/libopus/training/txt2hdf5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/jni/libopus/update_version" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/jni/libopus/update_version" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/main/jni/libopus" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="211" />
+    <option name="y" value="93" />
+    <option name="width" value="1240" />
+    <option name="height" value="926" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="17fa4bd9-3246-41a2-875a-d78f6cb2b3ac" name="Default Changelist" comment="" />
+      <created>1570503419365</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570503419365</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="32" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.32995737" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" visible="true" weight="0.329718" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
